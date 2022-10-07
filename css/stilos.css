@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* Global */
+body{
+    background-color: greenyellow;
+}
+#header{
+    background-color:white;
+    padding: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+    border: solid black;
+}
+#header .logo img{
+    width: 125px;
+    height: auto;
+}
+.casa{
+    
+}
+#header .menu ul li{
+    display: inline;
+    padding: 50px;
+    
+}
+#header .menu ul li a:hover{
+    color: black;
+}
+.año{
+    color: white;
+}
+/* Home */
+.menu{
+    margin-top: 25px;
+}
+#intro{
+    background-color:white;
+    padding: 50px;
+    text-align: center;
+}
+#servicios{
+    padding:10px;
+    text-align: left;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+   .compu{
+    margin-top: 10px;
+   }
+
+.juegos{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+   .imagen{
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+   }
+   .videoss{
+    margin-left: ;
+   }
+   #banner{
+    padding: 100px;
+    display: inline;
+   }
+   #banner .videos{
+    margin-inline: 10px;
+    padding: 50px;
+   }
+   article{
+    
+    grid-area: banner;
+}
+#footer{
+background-color: black;
+margin-top: 10%;
+
+}
+#footer .img{
+    height: auto;
+    width: 100px;
+    
+}
+
+#servicios{
+    padding:10px;
+    text-align: left;
+}
+.texto{
+    padding: 10px;
+    color: gray;
+    font-size: 15;
+    font-weight: bold;
+    
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+   .imagen{
+    text-align: center;
+   }
+   #banner{
+    text-align: center;
+    
+   }
+   article{
+    
+    grid-area: banner;
+}
+#footer{
+background-color: black;
+
+
+}
+#footer .img{
+    height: auto;
+    width: 100px;
+    
+}
+
+/* ayuda */
+.boxModel_1{
+    background-color:white;
+    width: 500px;
+    height: 225px;
+    margin top: 50px 25px 40px 30px; 
+    margin: 10px auto;
+    padding: 25px 50px;
+    border: 10px solid black;
+}
+.bloque{
+    text-align: center;
+}
+
+.envio{
+    text-align: center;
+}
+
+/* carrito */
+
+.carro{
+    padding: 50px;
+    text-align: center;
+    
+}
+
+
+
+.btn-a{
+    display: inline;
+    background-color: rgb(226, 64, 43);
+    color: black;
+    font-weight: bold;
+    margin:800px;
+    padding: 25px 10px;
+}
+
+/* inicio de sesion*/
+.contra{
+    padding: 10px;
+}
+.usuario{
+    padding: 10px;
+}
+.chec{
+    padding: 10px;
+}
+.envi{
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+
