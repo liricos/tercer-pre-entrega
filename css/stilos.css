@@ -148,13 +148,17 @@ background-color: black;
 }
 
 /* carrito */
-
+.cuerpo{
+    background-color: greenyellow;
+}
 .carro{
-    padding: 50px;
-    text-align: center;
+    padding: 5%;
+    text-align: left;
     
 }
-
+.menu-{
+    color: black;
+}
 
 
 .btn-a{
